@@ -1,9 +1,9 @@
 {
-    "name": "tombrasil/ecommerce",
+    "name": "lusolci/ecommerce",
     "authors": [
         {
-            "name": "tombrasil",
-            "email": "tombr@myyahoo.com"
+            "name": "lusolci",
+            "email": "lusolci@gmail.com"
         }
     ],
     "require": {
